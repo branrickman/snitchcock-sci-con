@@ -1,3 +1,5 @@
+## Con-head orientation
+
 * Get a list of programmers and technical folks
 	* establish an understanding of who will be available (people come and go during scav, but it's a good idea to get a sense of who the few regulars will be)
 * Establish that saying "that doesn't *need* electronics/programming/etc" is our number 1 priority. We could literally do nothing but talk people out of programming things and be pulling our weight on the team
